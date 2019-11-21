@@ -1,7 +1,9 @@
 # python-whatsapp-bot
 This is a Whatsapp Chatbot that responds with quotes or images of cats when either of them is requested.
 
-## Usage
+[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Create%20a%20whatsapp%20chatbot%20with%20python%20and%20Twilio.&url=https://github.com/Ileriayo/python-whatsapp-bot&via=ileriayodavid&hashtags=chatbot,ai,python,twilio,developers)
+
+# Usage
 1. Download and install [Python](https://www.python.org/). Version 3 and above should come with `pip`.
 
 2. Clone or fork this repository (project).
@@ -48,15 +50,20 @@ This is a Whatsapp Chatbot that responds with quotes or images of cats when eith
     Send the link to your friends to try out the chatbot.
 
 # Technologies Used
-    - Python, Flask framework
-    - Twilio
-    - ngrok
-    
-# License
- - [MIT](LICENSE)
+- Python, Flask framework
+- Twilio
+- ngrok
 
 # Author
-Ileriayo Adebiyi 
+Ileriayo Adebiyi
+
+# Like It?
+- Kindly star this repository🙏🥺. It will go a long way. Thanks!🤝
+- [Click to tweet](https://twitter.com/intent/tweet?text=Create%20a%20whatsapp%20chatbot%20with%20python%20and%20Twilio.&url=https://github.com/Ileriayo/python-whatsapp-bot&via=ileriayodavid&hashtags=chatbot,ai,python,twilio,developers)
 
 # Contact
-- Send me an [email](mailto:ileriayoadebiyi@gmail.com) to build a bespoke chatbot for unique business needs. Visit [my website](http://ileriayo.github.io/)
+Send me an [email](mailto:ileriayoadebiyi@gmail.com?subject=Build%20Me%20a%20Chatbot) to build a bespoke chatbot for unique business needs. Visit [my website](http://ileriayo.github.io/)
+
+    
+# License ![GitHub](https://img.shields.io/github/license/ileriayo/python-whatsapp-bot)
+See [license](LICENSE)
