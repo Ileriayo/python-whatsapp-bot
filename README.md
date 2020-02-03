@@ -19,7 +19,7 @@ This is a Whatsapp Chatbot that responds with quotes or images of cats when eith
     ```
     Then activate that environment:
     ```
-    Windows: $ whatsapp-bot-venv\Scripts\activate
+    Windows: whatsapp-bot-venv\Scripts\activate
 
     Mac: $ source whatsapp-bot-venv/bin/activate
     ```
@@ -29,7 +29,18 @@ This is a Whatsapp Chatbot that responds with quotes or images of cats when eith
     $ pip install twilio flask requests
     ```
 
-5. Test the chatbot. 
+5. Run the Flask application  
+    Start by setting (exporting) the FLASK_APP environment variable
+    ```
+    Windows: set FLASK_APP=bot.py
+    Mac: $ export FLASK_APP=bot.py
+    ```
+    Run this command afterwards:
+    ```
+    python -m flask run
+    ```
+
+6. Test the chatbot. 
 
     a. Download [ngrok](https://ngrok.com/download). From your CLI (terminal or CMD), navigate to the ngrok directory and run this command:
 
