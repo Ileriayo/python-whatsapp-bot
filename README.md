@@ -73,7 +73,7 @@ Ileriayo Adebiyi
 - [Click to tweet](https://twitter.com/intent/tweet?text=Create%20a%20whatsapp%20chatbot%20with%20python%20and%20Twilio.&url=https://github.com/Ileriayo/python-whatsapp-bot&via=ileriayodavid&hashtags=chatbot,ai,python,twilio,developers)
 
 # Contact
-Send me an [email](mailto:ileriayoadebiyi@gmail.com?subject=Build%20Me%20a%20Chatbot) to build a bespoke chatbot for unique business needs. Visit [my website](http://ileriayo.github.io/)
+Send me an [email](mailto:ileriayoadebiyi@gmail.com?subject=Build%20Me%20a%20Chatbot) to build a bespoke chatbot for unique business needs. Visit [my website](https://ileriayo.netlify.app/)
 
     
 # License ![GitHub](https://img.shields.io/github/license/ileriayo/python-whatsapp-bot)
